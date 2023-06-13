@@ -18,3 +18,8 @@ Solver for waves in a spring-mass lattice with a progressive periodic modulation
 ## References
 * https://arxiv.org/pdf/2211.06294.pdf
 * http://bison.ihep.su/~kachaev/books/ode/yoshida_const_higher_order_symplectic_integ_1990.pdf
+
+## Author
+* Hussein Nassar (nassarh@missouri.edu)
+* Feel free to use for educational and research purposes
+* For commercial use, typos and suggestions, contact author
