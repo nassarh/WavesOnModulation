@@ -8,7 +8,7 @@ Solver for waves in a spring-mass lattice with a progressive periodic modulation
 * pre-defined Butcher tableaux for symplectic Radau 6 and Gauss-Legendre 6
 
 ## Notes
-* Tested on a Macbook pro (2018, i7, 16gb)
+* Execution time estimates are for runs performed on a Macbook pro (2018, i7, 16gb)
 * In some cases, semi-implicit methods are far more efficient and should be preferred: see references below
 
 ## Dependencies
